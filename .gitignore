@@ -1,6 +1,5 @@
 # Kotlin
 out/
-libs/
 
 # JetBrains IDE
 .idea
